@@ -1,5 +1,5 @@
 # Bluetooth_RFID-interface
-Project based on using arduino for a basic connection between bluetooth and NFC`s
+Project based on using arduino for a basic connection between bluetooth and NFC`s. You will be able to send msgs to the LCD screen with bluetooth and also encode data into the NFC tags using commands and read them using RFID module
 
 Basic Requirements :
 Arudino uno, 
